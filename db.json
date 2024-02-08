@@ -33,17 +33,17 @@
   "items": [
     {
       "id": 1,
-      "img": "",
+      "img": "https://picsum.photos/200/300.jpg",
       "description": "Use Vite to create a basic React app"
     },
     {
       "id": 2,
-      "img": "",
+      "img": "https://picsum.photos/200/300.jpg",
       "description": "Install React Router and setup routes"
     },
     {
       "id": 3,
-      "img": "",
+      "img": "https://picsum.photos/200/300.jpg",
       "description": "Create a form with 5 input fields"
     }
   ]
