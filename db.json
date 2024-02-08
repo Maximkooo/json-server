@@ -29,5 +29,22 @@
       "projectId": 2,
       "description": "Create a form with 5 input fields"
     }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "img": "",
+      "description": "Use Vite to create a basic React app"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "description": "Install React Router and setup routes"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "description": "Create a form with 5 input fields"
+    }
   ]
 }
