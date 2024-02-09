@@ -30,15 +30,34 @@
       "description": "Create a form with 5 input fields"
     }
   ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Phone"
+    },
+    {
+      "id": 2,
+      "title": "TV"
+    },
+    {
+      "id": 3,
+      "title": "Laptop"
+    },
+    {
+      "id": 4,
+      "title": "Computer"
+    }
+  ],
   "items": [
     {
       "id": 1,
       "img": "https://source.unsplash.com/random/200x200?sig=1",
-      "title": "Smart Tech 2000",
+      "title": "Techno Titan 2000",
       "description": "Experience the future with this cutting-edge technology.",
       "seller": "Tech Emporium",
       "price": 1499.99,
-      "rating": 4.2
+      "rating": 4.2,
+      "category": 1
     },
     {
       "id": 2,
@@ -47,7 +66,8 @@
       "description": "A seamless blend of style and functionality.",
       "seller": "Gadget Haven",
       "price": 899.99,
-      "rating": 3.8
+      "rating": 3.8,
+      "category": 1
     },
     {
       "id": 3,
@@ -56,16 +76,18 @@
       "description": "Stay ahead with this advanced connectivity solution.",
       "seller": "Tech Innovations Co.",
       "price": 1799.99,
-      "rating": 1
+      "rating": 1,
+      "category": 1
     },
     {
       "id": 4,
       "img": "https://source.unsplash.com/random/200x200?sig=4",
-      "title": "InnovateHub 5000",
-      "description": "Revolutionize your daily routine with this innovation hub.",
-      "seller": "Innovation Store",
+      "title": "Quantum Master 5000",
+      "description": "Master the quantum realm of computing with the Master 5000.",
+      "seller": "QuantumTech Solutions",
       "price": 1299.99,
-      "rating": 3.9
+      "rating": 3.9,
+      "category": 4
     },
     {
       "id": 5,
@@ -74,7 +96,8 @@
       "description": "Unleash the power of technology with this titan of gadgets.",
       "seller": "Tech Titans Ltd.",
       "price": 1699.99,
-      "rating": 2
+      "rating": 2,
+      "category": 1
     },
     {
       "id": 6,
@@ -83,7 +106,8 @@
       "description": "Embark on a journey of innovation with this explorer.",
       "seller": "WaveTech Solutions",
       "price": 1099.99,
-      "rating": 3.7
+      "rating": 3.7,
+      "category": 1
     },
     {
       "id": 7,
@@ -92,7 +116,8 @@
       "description": "Elite synchronization for a smarter lifestyle.",
       "seller": "SyncMaster Tech",
       "price": 999.99,
-      "rating": 4.0
+      "rating": 4.0,
+      "category": 1
     },
     {
       "id": 8,
@@ -101,7 +126,8 @@
       "description": "Enter the quantum realm of technology with Nexus X.",
       "seller": "QuantumTech Solutions",
       "price": 1899.99,
-      "rating": 2.3
+      "rating": 2.3,
+      "category": 4
     },
     {
       "id": 9,
@@ -110,7 +136,8 @@
       "description": "Professional-grade futurism at your fingertips.",
       "seller": "Futurist Tech Co.",
       "price": 1499.99,
-      "rating": 3.6
+      "rating": 3.6,
+      "category": 1
     },
     {
       "id": 10,
@@ -119,7 +146,8 @@
       "description": "Gear up for an infinite experience with Infinity Gear.",
       "seller": "Tech Infinity",
       "price": 1199.99,
-      "rating": 1.4
+      "rating": 1.4,
+      "category": 1
     },
     {
       "id": 11,
@@ -128,7 +156,8 @@
       "description": "Harmony of technology and eco-friendliness in one device.",
       "seller": "GreenTech Innovations",
       "price": 799.99,
-      "rating": 3.5
+      "rating": 3.5,
+      "category": 1
     },
     {
       "id": 12,
@@ -137,7 +166,8 @@
       "description": "Reach the zenith of connectivity with Connect X.",
       "seller": "Zenith Technologies",
       "price": 1699.99,
-      "rating": 4.2
+      "rating": 4.2,
+      "category": 1
     },
     {
       "id": 13,
@@ -146,7 +176,8 @@
       "description": "Pro-level technology for the modern era.",
       "seller": "NovaTech Solutions",
       "price": 1299.99,
-      "rating": 3.8
+      "rating": 3.8,
+      "category": 1
     },
     {
       "id": 14,
@@ -155,7 +186,8 @@
       "description": "Explore the hyper waves of innovation with Xplorer.",
       "seller": "HyperTech Ventures",
       "price": 1499.99,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": 1
     },
     {
       "id": 15,
@@ -164,7 +196,8 @@
       "description": "Mega synchronization for mega tech enthusiasts.",
       "seller": "MegaTech Corp",
       "price": 999.99,
-      "rating": 3.9
+      "rating": 3.9,
+      "category": 1
     },
     {
       "id": 16,
@@ -173,7 +206,8 @@
       "description": "Reach the horizon of infinite possibilities with this device.",
       "seller": "Horizon Tech Solutions",
       "price": 1899.99,
-      "rating": 4.1
+      "rating": 4.1,
+      "category": 1
     },
     {
       "id": 17,
@@ -182,7 +216,8 @@
       "description": "Pro-level synchronization for swift performance.",
       "seller": "SwiftTech Innovations",
       "price": 1099.99,
-      "rating": 3.7
+      "rating": 3.7,
+      "category": 1
     },
     {
       "id": 18,
@@ -191,7 +226,8 @@
       "description": "Take a quantum leap into the future with Leap X.",
       "seller": "QuantumLeap Tech",
       "price": 899.99,
-      "rating": 4.0
+      "rating": 4.0,
+      "category": 4
     },
     {
       "id": 19,
@@ -200,7 +236,8 @@
       "description": "Master the future with the scope of advanced technology.",
       "seller": "FutureScope Tech",
       "price": 1599.99,
-      "rating": 4.3
+      "rating": 4.3,
+      "category": 1
     },
     {
       "id": 20,
@@ -209,7 +246,8 @@
       "description": "Embark on a tech journey with the Voyager edition.",
       "seller": "Voyager Tech Co.",
       "price": 1399.99,
-      "rating": 3.6
+      "rating": 3.6,
+      "category": 1
     },
     {
       "id": 21,
@@ -218,7 +256,8 @@
       "description": "Enter the quantum sphere of limitless possibilities.",
       "seller": "QuantumSphere Innovations",
       "price": 1699.99,
-      "rating": 4.4
+      "rating": 4.4,
+      "category": 4
     },
     {
       "id": 22,
@@ -227,7 +266,8 @@
       "description": "Experience the epic synchronization of advanced tech.",
       "seller": "EpicTech Solutions",
       "price": 1199.99,
-      "rating": 3.5
+      "rating": 3.5,
+      "category": 1
     },
     {
       "id": 23,
@@ -236,7 +276,8 @@
       "description": "Elite harmony of technology and modern living.",
       "seller": "HarmonyTech Co.",
       "price": 1499.99,
-      "rating": 4.2
+      "rating": 4.2,
+      "category": 1
     },
     {
       "id": 24,
@@ -245,7 +286,8 @@
       "description": "Sync your world with the spectra of advanced technology.",
       "seller": "SpectraTech Innovations",
       "price": 1299.99,
-      "rating": 3.8
+      "rating": 3.8,
+      "category": 1
     },
     {
       "id": 25,
@@ -254,7 +296,8 @@
       "description": "Gaze into the future with this advanced tech marvel.",
       "seller": "GazeTech Solutions",
       "price": 1799.99,
-      "rating": 4.5
+      "rating": 4.5,
+      "category": 1
     },
     {
       "id": 26,
@@ -263,7 +306,8 @@
       "description": "Navigate through innovation with the InnoWave series.",
       "seller": "WaveNavigator Tech",
       "price": 1099.99,
-      "rating": 3.9
+      "rating": 3.9,
+      "category": 1
     },
     {
       "id": 27,
@@ -272,7 +316,8 @@
       "description": "Pro-level technology encapsulated in the TechSphere.",
       "seller": "SphereTech Innovations",
       "price": 999.99,
-      "rating": 4.1
+      "rating": 4.1,
+      "category": 1
     },
     {
       "id": 28,
@@ -281,7 +326,8 @@
       "description": "Experience the dynamic infinity of advanced tech.",
       "seller": "DynamicTech Co.",
       "price": 1899.99,
-      "rating": 3.7
+      "rating": 3.7,
+      "category": 1
     },
     {
       "id": 29,
@@ -290,7 +336,8 @@
       "description": "Master the art of swift synchronization with this device.",
       "seller": "SwiftSync Tech",
       "price": 1499.99,
-      "rating": 4.0
+      "rating": 4.0,
+      "category": 1
     },
     {
       "id": 30,
@@ -299,7 +346,8 @@
       "description": "Explore the horizon of technology with this innovative device.",
       "seller": "Horizon Explorer Tech",
       "price": 899.99,
-      "rating": 4.3
+      "rating": 4.3,
+      "category": 1
     }
   ]
 }
