@@ -56,7 +56,7 @@
       "description": "Stay ahead with this advanced connectivity solution.",
       "seller": "Tech Innovations Co.",
       "price": 1799.99,
-      "rating": 4.5
+      "rating": 1
     },
     {
       "id": 4,
@@ -74,7 +74,7 @@
       "description": "Unleash the power of technology with this titan of gadgets.",
       "seller": "Tech Titans Ltd.",
       "price": 1699.99,
-      "rating": 4.1
+      "rating": 2
     },
     {
       "id": 6,
@@ -101,7 +101,7 @@
       "description": "Enter the quantum realm of technology with Nexus X.",
       "seller": "QuantumTech Solutions",
       "price": 1899.99,
-      "rating": 4.3
+      "rating": 2.3
     },
     {
       "id": 9,
@@ -119,7 +119,7 @@
       "description": "Gear up for an infinite experience with Infinity Gear.",
       "seller": "Tech Infinity",
       "price": 1199.99,
-      "rating": 4.4
+      "rating": 1.4
     },
     {
       "id": 11,
