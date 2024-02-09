@@ -67,7 +67,7 @@
       "seller": "Gadget Haven",
       "price": 899.99,
       "rating": 3.8,
-      "category": 1
+      "category": 3
     },
     {
       "id": 3,
@@ -77,7 +77,7 @@
       "seller": "Tech Innovations Co.",
       "price": 1799.99,
       "rating": 1,
-      "category": 1
+      "category": 2
     },
     {
       "id": 4,
@@ -107,7 +107,7 @@
       "seller": "WaveTech Solutions",
       "price": 1099.99,
       "rating": 3.7,
-      "category": 1
+      "category": 3
     },
     {
       "id": 7,
@@ -137,7 +137,7 @@
       "seller": "Futurist Tech Co.",
       "price": 1499.99,
       "rating": 3.6,
-      "category": 1
+      "category": 2
     },
     {
       "id": 10,
@@ -157,7 +157,7 @@
       "seller": "GreenTech Innovations",
       "price": 799.99,
       "rating": 3.5,
-      "category": 1
+      "category": 2
     },
     {
       "id": 12,
@@ -167,7 +167,7 @@
       "seller": "Zenith Technologies",
       "price": 1699.99,
       "rating": 4.2,
-      "category": 1
+      "category": 3
     },
     {
       "id": 13,
@@ -187,7 +187,7 @@
       "seller": "HyperTech Ventures",
       "price": 1499.99,
       "rating": 4.5,
-      "category": 1
+      "category": 2
     },
     {
       "id": 15,
@@ -197,7 +197,7 @@
       "seller": "MegaTech Corp",
       "price": 999.99,
       "rating": 3.9,
-      "category": 1
+      "category": 2
     },
     {
       "id": 16,
@@ -217,7 +217,7 @@
       "seller": "SwiftTech Innovations",
       "price": 1099.99,
       "rating": 3.7,
-      "category": 1
+      "category": 2
     },
     {
       "id": 18,
@@ -247,7 +247,7 @@
       "seller": "Voyager Tech Co.",
       "price": 1399.99,
       "rating": 3.6,
-      "category": 1
+      "category": 3
     },
     {
       "id": 21,
@@ -277,7 +277,7 @@
       "seller": "HarmonyTech Co.",
       "price": 1499.99,
       "rating": 4.2,
-      "category": 1
+      "category": 3
     },
     {
       "id": 24,
@@ -297,7 +297,7 @@
       "seller": "GazeTech Solutions",
       "price": 1799.99,
       "rating": 4.5,
-      "category": 1
+      "category": 4
     },
     {
       "id": 26,
@@ -317,7 +317,7 @@
       "seller": "SphereTech Innovations",
       "price": 999.99,
       "rating": 4.1,
-      "category": 1
+      "category": 4
     },
     {
       "id": 28,
@@ -327,7 +327,7 @@
       "seller": "DynamicTech Co.",
       "price": 1899.99,
       "rating": 3.7,
-      "category": 1
+      "category": 3
     },
     {
       "id": 29,
@@ -347,7 +347,7 @@
       "seller": "Horizon Explorer Tech",
       "price": 899.99,
       "rating": 4.3,
-      "category": 1
+      "category": 2
     }
   ]
 }
